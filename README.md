@@ -48,8 +48,8 @@ At the time, knowledge of **SSH, server architecture, and secure networking** wa
 
 The system was designed to operate only in a **local area network (LAN)** environment, as originally intended, without external internet exposure.
 
--If you are Interested in viewing the project pls contact me directly.
-goddov@gmail.com (2026)
+If you are Interested in viewing the project pls contact me directly: goddov@gmail.com (2026)
+
 ---
 
 ## Purpose of the Project
